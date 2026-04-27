@@ -1,17 +1,17 @@
-# 🏗️ Inception
+# Inception
 
 [![42 Project](https://img.shields.io/badge/42-Project-1f425f.svg)](https://42.fr)
 [![Docker](https://img.shields.io/badge/Built%20with-Docker-blue?logo=docker)](https://www.docker.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 
 > A fully containerized, secure, and scalable web infrastructure hosted using Docker.  
-> Made with ❤️ by [ERROR244](https://github.com/ERROR244).
+> Made by [ERROR244](https://github.com/ERROR244).
 
 ![inception-demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRmM2tja3M0azExdTc4a3ViMmlwMzhkdXFrbWN5enZ6MnduM2NvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 Inception/
@@ -34,7 +34,7 @@ Inception/
 
 ---
 
-## 🐳 Services
+## Services
 
 | Service     | Description                               | Port(s)     |
 |-------------|-------------------------------------------|-------------|
@@ -49,7 +49,7 @@ Inception/
 
 ---
 
-## ⚙️ Makefile Usage
+## Makefile Usage
 
 | Command     | Description                                           |
 |-------------|-------------------------------------------------------|
@@ -65,7 +65,7 @@ Inception/
 
 ---
 
-## 🔐 Features
+## Features
 
 - SSL (HTTPS) enabled via Nginx
 - Secure password and user management through environment variables
@@ -75,7 +75,7 @@ Inception/
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 1. **Clone the repo**  
    
@@ -102,7 +102,7 @@ Inception/
       ```
       Then enter your username and password from the .env file when prompted.
 
-## 📜 42 Subject Goals
+## 42 Subject Goals
 
 - Set up multi-container Docker architecture
 - Isolate services via volumes and networks
@@ -111,7 +111,7 @@ Inception/
 - Bonus: Add extra services of your choice
 
 
-### 👨‍💻 Authors
+### Authors
 
 - [ERROR244](https://github.com/ERROR244)
 
